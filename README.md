@@ -77,6 +77,7 @@ var MovieListComponent = React.createClass({
 
 Install the node.js (https://nodejs.org/), In the root directory
 `npm install`
+
 For installing webpack: 
 `npm install -g webpack`
 
@@ -84,5 +85,6 @@ For installing webpack:
 
 Switch to the root directory and run : 
 `node server.js`
+
 Browse to `http://localhost:8000/`
 
